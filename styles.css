@@ -186,6 +186,10 @@ hr {
     width: 30vw;
 }
 
+.tech{
+    line-height: 2.8;
+}
+
 .innerLi{
     list-style: none;
 }
